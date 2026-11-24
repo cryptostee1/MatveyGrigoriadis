@@ -30,3 +30,19 @@ Prices are current catalogue reference prices as of 24 November 2026. Availabili
 
 Η GMG παρουσιάζει έξι ψηφιακά προϊόντα: εργαλεία κοστολόγησης κατασκευών και αξιολόγησης ακινήτων, ημερολόγιο συναλλαγών, έλεγχο ακεραιότητας αρχείων και παιχνίδι λογικής. Ζητήστε πληροφορίες και επίδειξη από την ομάδα GMG. Η παρούσα σελίδα είναι ενημερωτική και δεν δέχεται πληρωμές.
 
+
+## Product previews
+
+| Product | Preview |
+| --- | --- |
+| HASH ATLAS | [View catalogue screenshot](https://cdn.shopify.com/s/files/1/0959/7177/0749/files/GMG-HASH-ATLAS-DESKTOP-PREVIEW.png?v=1795292841) |
+| Private Trader OS | [View catalogue screenshot](https://cdn.shopify.com/s/files/1/0959/7177/0749/files/GMG-PRIVATE-TRADER-OS-DASHBOARD.png?v=1795293110) |
+| VOID RELAY | [View catalogue screenshot](https://cdn.shopify.com/s/files/1/0959/7177/0749/files/VOID-RELAY-SIGNAL-ARCHITECT-DESKTOP.png?v=1795292184) |
+
+## Share the catalogue
+
+[LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fcryptostee1%2FMatveyGrigoriadis) · [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fcryptostee1%2FMatveyGrigoriadis) · [Telegram](https://t.me/share/url?url=https%3A%2F%2Fgithub.com%2Fcryptostee1%2FMatveyGrigoriadis&text=Discover%20GMG%20independent%20software%3A%20construction%20and%20property%20analysis%20pilots%2C%20offline%20file%20verification%20and%20logic%20games.%20Explore%20the%20catalogue%20and%20request%20a%20demo.) · [WhatsApp](https://wa.me/?text=Discover%20GMG%20independent%20software%3A%20construction%20and%20property%20analysis%20pilots%2C%20offline%20file%20verification%20and%20logic%20games.%20Explore%20the%20catalogue%20and%20request%20a%20demo.%20https%3A%2F%2Fgithub.com%2Fcryptostee1%2FMatveyGrigoriadis)
+
+Suggested copy: Discover GMG independent software: construction and property analysis pilots, offline file verification and logic games. Explore the catalogue and request a demo.
+
+Please share only where relevant and permitted. No purchase or payment is made through these links.
