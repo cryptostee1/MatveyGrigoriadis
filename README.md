@@ -22,7 +22,7 @@ Both are English-language offline pilot editions. Calculations are illustrative;
 
 ## Interested in a demonstration?
 
-This is a product announcement, not a checkout. Contact the GMG team through your existing business contact or, if available, this repository's Issues tab to request availability and demonstration details. Please do not post personal, payment or confidential information in public issues.
+This is a product announcement, not a checkout. [Request a demonstration or ask about availability](https://github.com/cryptostee1/MatveyGrigoriadis/issues/1) in the public inquiry thread. A GitHub account is required to comment. Please do not post personal, payment or confidential information in public issues.
 
 Prices are current catalogue reference prices as of 24 November 2026. Availability, licensing, taxes, delivery and payment must be confirmed before ordering. No payments are collected by this page.
 
