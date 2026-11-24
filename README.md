@@ -46,3 +46,12 @@ Prices are current catalogue reference prices as of 24 November 2026. Availabili
 Suggested copy: Discover GMG independent software: construction and property analysis pilots, offline file verification and logic games. Explore the catalogue and request a demo.
 
 Please share only where relevant and permitted. No purchase or payment is made through these links.
+
+## Digital product guide
+
+- **VOID RELAY:** standalone offline sci-fi puzzle with 30 levels. For players who enjoy logic and network-routing puzzles.
+- **HASH ATLAS:** offline SHA-256 file fingerprint comparison. A matching hash helps check file integrity against a known reference; it does not establish that a file is safe or that its publisher is trustworthy.
+- **Private Trader OS:** offline journal and risk calculator. Not investment advice or a trading signal service.
+- **DIGITAL 3-IN-1:** all three products in one bundle.
+
+**Delivery status:** packaged editions have been prepared. Public download and live checkout are not yet confirmed. Please [ask about a demonstration or availability](https://github.com/cryptostee1/MatveyGrigoriadis/issues/1) before ordering. Do not post private details in the inquiry thread.
