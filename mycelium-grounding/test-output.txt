@@ -1,0 +1,4 @@
+Local Python 3.13.5, 2026-11-26
+python -m pytest -q
+136 passed in 0.16s
+Python 3.12 execution not verified.
